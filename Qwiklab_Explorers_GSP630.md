@@ -11,11 +11,11 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Dataplex-Qwik-Start---Console-GSP1143/refs/heads/main/qwiklab_explorers_gsp1143.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Configuring-Networks-via-gcloud-GSP630-Updated/refs/heads/main/qwiklab_explorers_gsp630.sh
 
-sudo chmod +x qwiklab_explorers_gsp1143.sh
+sudo chmod +x qwiklab_explorers_gsp630.sh
 
-./qwiklab_explorers_gsp1143.sh
+./qwiklab_explorers_gsp630.sh
 ```
 
 ---
